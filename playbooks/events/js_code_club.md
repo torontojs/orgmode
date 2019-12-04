@@ -15,6 +15,10 @@ _(TorontoJS has other types of events that include tech talks but JS Code Club i
 ### Order pizza 
 More than half of those registered will no-show, so cut the number from Meetup.com at least in half. Then order about one party-size pizza per 8 people. Ask for plates and napkins for the number of people you expect (otherwise you'll get fewer than you need). Pizzaiolo nearby on Spadina is a good option.
 
+### Confirm with the venue
+
+Contact Jeff at Project Spaces, ask in #orgmode on Slack for the contact info.
+
 ## At event time
 
 ### Door signs
@@ -25,6 +29,9 @@ Display the [welcome slide](https://docs.google.com/presentation/d/18uZ8XrsLKdj6
 
 ### Table signs
 It's good when people can sit near others who are doing similar things. We usually put [signs](https://docs.google.com/presentation/d/1GnxNPHRkA-GEMg5MNNu4mdAPjbwJQUrIIc0mLq8ends/edit#slide=id.g3cd207a4c5_1_0) on the tables and as people are coming in we suggest that they sit near the sign for what they're doing/using.
+
+### Confirm that the door will stay unlocked
+Ask Jeff to make sure the door locking time is at least 7 PM.
 
 ### Greet people as they arrive
 There are often many new people. We try to greet them as they arrive and let them know what's going on.
