@@ -18,13 +18,13 @@ More than half of those registered will no-show, so cut the number from Meetup.c
 ## At event time
 
 ### Door signs
-Print and post [door signs](https://docs.google.com/drawings/d/1YJdsLCNdk9ZBgvSl9UgfKZpIxZqLWW91NTy2X3JdTsE/edit?usp=sharing) on outside door and by the stairs.
+Print and post [door signs](https://docs.google.com/drawings/d/1K2uQibQBy_EIy5HbgMrhoseHnk0WA7-85wl1G4kEjMk/edit) on outside door and by the stairs.
 
 ### Welcome slide
-Display the [welcome slide](https://goo.gl/Wfchm7) on the projector (and keep it up throughout the event).
+Display the [welcome slide](https://docs.google.com/presentation/d/18uZ8XrsLKdj6hOrUlKmsYJ0Avz-8T2Ll5th1xM-qpR4/edit) on the projector (and keep it up throughout the event).
 
 ### Table signs
-It's good when people can sit near others who are doing similar things. We usually put [signs](https://docs.google.com/presentation/d/1a9Gmg6vQEvoumncvTDIofT8KYfghuNhxcgDkUfj-FBs/edit) on the tables and as people are coming in we suggest that they sit near the sign for what they're doing/using.
+It's good when people can sit near others who are doing similar things. We usually put [signs](https://docs.google.com/presentation/d/1GnxNPHRkA-GEMg5MNNu4mdAPjbwJQUrIIc0mLq8ends/edit#slide=id.g3cd207a4c5_1_0) on the tables and as people are coming in we suggest that they sit near the sign for what they're doing/using.
 
 ### Greet people as they arrive
 There are often many new people. We try to greet them as they arrive and let them know what's going on.
